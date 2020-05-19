@@ -1,0 +1,4 @@
+site_name: Joa Tech
+theme:
+    name: slate
+    nav_style: dark
